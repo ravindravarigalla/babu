@@ -1,23 +1,17 @@
 <!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
+<html lang="en">
+<title>W3.CSS Case</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body class="w3-container">
 
-<h2>Displaying Code</h2>
-<p>The w3-code class is designed to display example code:</p>
-
-<div class="w3-panel w3-card w3-light-grey">
-  <h3>Example</h3>
-  <div class="w3-code notranslate">
-    fruits[0] = "Banana";<br>
-    fruits[1] = "Apple";<br>
-    fruits[2] = "Mango";<br>
-    fruits[3] = "Plum";<br>
-  </div>
-</div>
-
+<body>
+  <h1>My First W3.CSS Website!</h1>
+  <p>This site will grow as we add more ...</p>
+  <p>This is a paragraph.</p>
+  <p>This is another paragraph.</p>
+  <p>This is a paragraph.</p>
+  <p>This is another paragraph.</p>
 </body>
+
 </html>
 
